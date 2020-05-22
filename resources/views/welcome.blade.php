@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Chihyu KahI
+                    Chihyu Kah
                 </div>
 
                 <div class="links">
